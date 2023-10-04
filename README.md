@@ -1,0 +1,1 @@
+JavaScript Quote Generator using DOM Manipulation
